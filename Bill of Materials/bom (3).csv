@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"Digit1",1,"Anode 7 Segment Display"
+"U1",1," 7-Segment Decoder"
+"U2",1," Arduino Uno R3"
